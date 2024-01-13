@@ -7,8 +7,7 @@ The code is a pure html, css, and js where you can click a switch and everytime 
 <h1>Screenshots:</h1>
 
 <h6>Snowy Sunny</h6>
-![Alt text](https://github.com/lxwnsl/Season-Weather/assets/154670564/2a9c6f92-dae8-4dc0-8bda-e939ead213c6
-)
+![Snowy Sunset](https://github.com/lxwnsl/Season-Weather/assets/154670564/a7a0820b-9f6f-4a43-9852-e878df08ac10)
 
 <h6>Snowy Sunset</h6>
 ![Alt text](https://github.com/lxwnsl/Season-Weather/assets/154670564/88d07433-a580-40c4-b324-fbb0662ab6cb)
